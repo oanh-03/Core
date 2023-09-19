@@ -1,0 +1,2 @@
+Id=1, BirthDate=04-11-2003, Name=Phương Oanh, Address=Ha Noi, Height=150.0, Weight=42.0, Student code=SV1, School=FPT, StartYear=2021, Gpa=8.0, Rank=GIOI
+Id=2, BirthDate=04-11-2000, Name=Oanh2, Address=Ha Noi, Height=150.0, Weight=42.0, Student code=SV2, School=FPT, StartYear=2021, Gpa=5.5, Rank=TB
